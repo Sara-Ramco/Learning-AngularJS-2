@@ -8,7 +8,7 @@ npm install -g @angular/cli
 ```Javascript
 ng new my-app
 ```
-### Step 3: Serve the app @http://localhost:4200 
+### Step 3: Serve the app @ http://localhost:4200 
 ```Javascript
 cd my-app
 ng serve --open
